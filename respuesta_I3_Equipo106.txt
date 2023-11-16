@@ -2,7 +2,7 @@ Gutierrez Mariel
 Lopez Hoays Aaron Bernabe
 Gloria Salas Diego Leonardo
 
-a-La rama main quedá actualizada con todos los cambios realizados en las diferentes ramas.
+a-La rama main queda actualizada con todos los cambios realizados en las diferentes ramas.
 b-Sí, Beta pudo observar todos los cambios que iban sucediéndose.
 c-git checkout main
   git merge Lopez_Hoays
