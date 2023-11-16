@@ -1,0 +1,25 @@
+Diego Leonardo Gloria Salas
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2800:40:2a:d71:1adf:d276:9efc:2e4
+   Dirección IPv6 temporal. . . . . . : 2800:40:2a:d71:99:48e4:80cb:2872
+   Vínculo: dirección IPv6 local. . . : fe80::77f0:787:b4dd:199a%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.6
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%7
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::1ee9:eb92:856a:a7c8%14
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+   22:06
