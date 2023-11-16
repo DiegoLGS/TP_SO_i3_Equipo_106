@@ -23,3 +23,45 @@ Adaptador de Ethernet Ethernet 2:
    Puerta de enlace predeterminada . . . . . :
 
    22:06
+
+Aaron Bernabe Lopez Hoays
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Hamachi:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2620:9b::1900:6bc6
+   Vínculo: dirección IPv6 local. . . : fe80::aa7a:5245:93f9:5e99%10
+   Dirección IPv4. . . . . . . . . . . . . . : 25.0.107.198
+   Máscara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 2620:9b::1900:1
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2800:810:597:119::1003
+   Dirección IPv6 . . . . . . . . . . : 2800:810:597:119:d5e5:cfdb:122a:c2c5
+   Dirección IPv6 temporal. . . . . . : 2800:810:597:119:84f3:f2cd:befc:5b94
+   Vínculo: dirección IPv6 local. . . : fe80::5d96:10d2:486e:9f9a%9
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.64
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::ba66:85ff:feed:b0c1%9
+                                       192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::4862:ce3e:f2e1:fe49%12
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::753c:6690:ca05:f87c%5
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.172.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
