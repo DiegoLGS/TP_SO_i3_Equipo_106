@@ -65,3 +65,5 @@ Adaptador de Ethernet Ethernet 3:
    Dirección IPv4. . . . . . . . . . . . . . : 192.168.172.1
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :
+
+19:16
