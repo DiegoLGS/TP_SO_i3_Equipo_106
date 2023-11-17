@@ -9,3 +9,13 @@ c-git checkout main
   git add .
   git commit -m "rama Lopez_Hoays integrada en main"
   git push
+d-No,Las ramas creadas por beta y gamma no reciben cambios si se actualiza el origin.
+  Pero estas ramas pueden hacer un pull request para updatear al origin.
+e-Beta no tuvo ningun problema en el merge.
+f-f-Para empezar se clona el repositorio: git clone -b Glora_Salas --single-branch https://github.com/DiegoLGS/TP_SO_i3_Equipo_106.git.
+ahora se abre el cmd y se coloca : ipconfig.
+se actualiza el archivo con la informacion.
+despues se agrega el archivo: git add beta.txt.
+se hace el commit: git commit -m "Actualisacion beta.txt con datos gamma".
+se hace el push: git push.
+ 
